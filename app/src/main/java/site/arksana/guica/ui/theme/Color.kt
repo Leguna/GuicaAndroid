@@ -28,7 +28,7 @@ val primaryTextColor2 = Color(0xFFffffff)
 val secondaryTextColor2 = Color(0xFFffffff)
 
 
-
+val whiteBackground = Color(0xFFF7F7F7)
 
 
 

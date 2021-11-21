@@ -12,14 +12,15 @@ import site.arksana.guica.R
 private val DarkColorPalette = darkColors(
     primary = primaryColor2,
     primaryVariant = primaryDarkColor2,
-    secondary = secondaryColor2
-
+    secondary = secondaryColor2,
+    background = primaryLightColor2,
 )
 
 private val LightColorPalette = lightColors(
     primary = primaryColor,
     primaryVariant = primaryDarkColor,
     secondary = secondaryColor,
+    background = primaryLightColor,
 
     /* Other default colors to override
     background = Color.White,
